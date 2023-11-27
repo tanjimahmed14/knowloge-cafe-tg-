@@ -1,0 +1,53 @@
+[
+    {
+      "id": 101,
+      "cover": "https://i.ibb.co/YyXYKCV/waterjet.jpg",
+      "title": "The Art of Coding",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/YRVjwG6/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
+      "posted_date": "2023-11-01",
+      "reading_time": 15,
+      "hashtag": ["#Coding", "#Programming"]
+    },
+    {
+      "id": 102,
+      "cover": "https://i.ibb.co/kQVm6zy/big-beautiful-jewel.jpg",
+      "title": "Exploring the Universe",
+      "author": "Bob Smith",
+      "author_img": "https://i.ibb.co/GJq6ZV8/bohemian-man-with-his-arms-crossed.jpg",
+      "posted_date": "2023-11-05",
+      "reading_time": 20,
+      "hashtag": ["#Space", "#Science"]
+    },
+    {
+      "id": 103,
+      "cover": "https://i.ibb.co/w7wGNyt/alarm-clock-laptop-earphones-spiral-notepad-eyeglasses-budget-plan-blue-backdrop.jpg",
+      "title": "Cooking with Passion",
+      "author": "Eva Rodriguez",
+      "author_img": "https://i.ibb.co/W64txhy/christopher-campbell-r-DEOVt-E7v-Os-unsplash-1.jpg",
+      "posted_date": "2023-11-10",
+      "reading_time": 30,
+      "hashtag": ["#Cooking", "#Food"]
+    },
+    {
+      "id": 104,
+      "cover": "https://i.ibb.co/MSG8dSH/top-view-circular-frame-with-desk-items.jpg",
+      "title": "Mindfulness Meditation",
+      "author": "David Williams",
+      "author_img": "https://i.ibb.co/W64txhy/christopher-campbell-r-DEOVt-E7v-Os-unsplash-1.jpg",
+      "posted_date": "2023-11-15",
+      "reading_time": 25,
+      "hashtag": ["#Mindfulness", "#Meditation"]
+    },
+    {
+      "id": 105,
+      "cover": "https://i.ibb.co/GV4YT6m/top-view-desk-concept-with-coffee.jpg",
+      "title": "Photography Basics",
+      "author": "Sophie Turner",
+      "author_img": "https://i.ibb.co/pyKtYpz/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair.jpg",
+      "posted_date": "2023-11-20",
+      "reading_time": 18,
+      "hashtag": ["#Photography", "#Art"]
+    }
+  ]
+  
